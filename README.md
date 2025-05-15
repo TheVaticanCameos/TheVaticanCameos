@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Xuanze Yang, who is currently an undergraduate at USTC. I major in computational mathematics, and my academical interests mainly focus on computer graphics and computer vision.
 - 🔭 I’m currently working on Physics based 3D reconstruction
 - 🌱 I’m currently learning dynamics deformation
